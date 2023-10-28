@@ -1,18 +1,18 @@
 ---
-title: "Menu Restauracji"
+title: Menu Restauracji mojej!
 date: 2023-10-28
 menu:
-  - category: "Przystawki"
+  - category: Przystawki
     items:
-      - name: "Krewetki na grillu"
-        price: "$12.99"
-      - name: "Sałatka Cezar"
-        price: "$9.99"
-  - category: "Dania główne"
+      - name: Krewetki na grillu
+        price: $12.99
+      - name: Sałatka Cezar
+        price: $9.99
+  - category: Dania główne
     items:
-      - name: "Stek z antrykotu"
-        price: "$24.99"
-      - name: "Lasagne"
-        price: "$16.99"
+      - name: Stek z antrykotu
+        price: $24.99
+      - name: Lasagne
+        price: $16.99
 ---
 # Menu Restauracji
