@@ -83,8 +83,8 @@ collections: # A list of collections the CMS should be able to edit
         label: "Menu"
         name: "menu"
         fields:
-      - { label: "Title", name: "title", widget: "string" } 
-      - { label: "Menu", name: "menu", widget: "list" }  
+         - { label: "Title", name: "title", widget: "string" } 
+         - { label: "Menu", name: "menu", widget: "list" }  
   - name: "site_settings"
     label: "Site Settings"
     files:
