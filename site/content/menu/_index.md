@@ -14,5 +14,11 @@ menu:
         price: $24.99
       - name: Lasagne
         price: $16.99
+  - category: Desery
+    items:
+      - name: deser z białej czekolady
+        price: 15 zł
+      - name: deser z czarnej czekolady
+        price: 10 zł
 ---
 # Menu Restauracji
