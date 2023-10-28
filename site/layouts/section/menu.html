@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+
+<div class="mw7 center ph3 pt4">
+
+  <h1>{{ .Title }}</h1>
+  {{ range .Params.menu }}
+      <h2>{{ .category }}</h2>
+      <ul>
+          {{ range .items }}
+              <li>
+                  <span>{{ .name }}</span>
+                  <span>{{ .price }}</span>
+              </li>
+          {{ end }}
+      </ul>
+  {{ end }}
+
+</div>
+
+{{ end }}
