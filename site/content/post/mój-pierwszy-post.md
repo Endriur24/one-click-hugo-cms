@@ -1,5 +1,5 @@
 ---
-title: mój pierwszy post
+title: Mój pierwszy poprawiony post
 date: 2023-10-28T09:37:31.271Z
 description: to jest jakiś tekst który jest ponad zdjęciem
 image: img/blog-chemex.jpg
