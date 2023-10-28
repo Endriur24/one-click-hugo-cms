@@ -20,5 +20,7 @@ menu:
         price: 15 zł
       - name: deser z czarnej czekolady
         price: 10 zł
+      - name: kaczka w czekoladzie
+        price: 5 zł
 ---
 # Menu Restauracji
